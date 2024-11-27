@@ -18,10 +18,13 @@
 
   ##
 
-  ## 🚀 Featured Projects
+  # 🚀 Featured Projects
 - [Finance App](https://github.com/username/finance-app): Controle financeiro em Flutter.  
 - [Portfolio](https://github.com/username/portfolio): Um site pessoal minimalista.
 
+##
+
+#📫 Contact
 <div align="left">
   <a href="https://www.linkedin.com/in/hugo-dcavalcante/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
