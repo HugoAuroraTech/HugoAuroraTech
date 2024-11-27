@@ -9,9 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYly1xa0-eHikTN8ue2QFnCl-PeIRNdnptPFkNxAnONFATyDAD5mjccnwmcDlnU6cpxDAc9ssMb6kCBzMny9feflINXRFrIrldQFMZplA0XZqduSy-YoLsY5JBH8454gZpV5O8N7DP-gQ/s1600/Regular+Show+1.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
