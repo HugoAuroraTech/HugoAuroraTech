@@ -5,8 +5,6 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoAuroraTech&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAuroraTech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #
 
 
@@ -19,6 +17,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
   ##
+
+  ## 🚀 Featured Projects
+- [Finance App](https://github.com/username/finance-app): Controle financeiro em Flutter.  
+- [Portfolio](https://github.com/username/portfolio): Um site pessoal minimalista.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hugo-dcavalcante/" target="_blank">
