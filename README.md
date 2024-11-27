@@ -4,7 +4,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoAuroraTech&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-hugoauroratechs-projects.vercel.app/api?username=HugoAuroraTech&show_icons=true&theme=dark)
 #
 
 
