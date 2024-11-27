@@ -4,8 +4,25 @@
 
 ##
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-v861-hugoauroratechs-projects.vercel.app/api?username=HugoAuroraTech&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats-v861-hugoauroratechs-projects.vercel.app/api/top-langs/?username=HugoAuroraTech&langs_count=5)
+# 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=HugoAuroraTech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAuroraTech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+  />
+
+</p>
 #
 
 
