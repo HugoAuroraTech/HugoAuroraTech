@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hugo Vinicius!
-👩🏻‍💻 Frontend Developer<br/>
+👩🏻‍💻 Frontend Developer | Designer (UI/UX)<br/>
 👩🏻‍🎓 Studying Software Engineering at the UNIFAE, Brazil<br/>
 
 ##
