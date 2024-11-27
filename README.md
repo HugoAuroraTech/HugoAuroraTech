@@ -22,7 +22,7 @@
 - [Finance App](https://github.com/username/finance-app): Controle financeiro em Flutter.  
 - [Portfolio](https://github.com/username/portfolio): Um site pessoal minimalista.
 
-##
+
 
 # 📫 Contact
 <div align="left">
@@ -37,7 +37,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
