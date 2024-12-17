@@ -22,8 +22,7 @@
   
 
   # 🚀 Featured Projects
-- [Finance App](https://github.com/username/finance-app): Controle financeiro em Flutter.  
-- [Portfolio](https://github.com/username/portfolio): Um site pessoal minimalista.
+- [Portfolio](https://hugoauroratech.github.io/my-portfolio/)
 
 
 
