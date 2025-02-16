@@ -26,7 +26,7 @@
   
 
   # 🚀 Featured Projects
-- [Portfolio](https://hugoauroratech.github.io/my-portfolio/)
+- [Portfolio]([https://hugoauroratech.github.io/my-portfolio/](https://hugoauroratech.github.io/portfolio/))
 
 
 
