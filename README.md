@@ -15,9 +15,18 @@
 
 
 
-## 🌟 Featured Project
+## 🌟 Git Stats
 
-<p>🎯 <a href="https://hugoauroratech.github.io/portfolio/" target="_blank">Personal Portfolio</a> - Modern and responsive showcase of my work</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoauroratech&show_icons=true&theme=dark)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoauroratech&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
 
 <hr>
 
