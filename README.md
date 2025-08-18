@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Hugo Vinicius!
 
-<p>👨‍💻 Full-Stack Developer & UI/UX Designer. 2+ years of experience building modern web and mobile applications.</p>
-<p>🎓 Studying Software Engineering at <a href="https://unifae.br/" target="_blank">UNIFAE</a></p>
-<p>🌟 Passionate about creating beautiful, functional, and user-centered digital experiences</p>
-<p>🎨 Specialized in React, Flutter, and modern design systems</p>
-<p>🚀 Always learning and exploring new technologies to solve real-world problems</p>
-<p>📱 Building the next generation of mobile and web applications</p>
+👨‍💻 Software Engineer.
+
+🎓 Studying Software Engineering at <a href="https://unifae.br/" target="_blank">UNIFAE</a>
+
+🎨 Passionate about creating digital solutions and user experiences
+
+🚀 Always learning and exploring new technologies
 
 <hr>
 
