@@ -2,7 +2,7 @@
 
 👨‍💻 Software Engineer.
 
-🎓 Studying Software Engineering at <a href="https://unifae.br/" target="_blank">UNIFAE</a>
+🎓 Studying Software Engineering at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>
 
 🎨 Passionate about creating digital solutions and user experiences
 
